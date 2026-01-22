@@ -41,15 +41,19 @@ This makes sure the output is visible as a standard grayscale image.
 
 ### Example 1: Flower Edge Detection
 
-<div align="center">
+![Flower Edge Detection Process](images/edge_detection.jpg)
 
-| Original Image | Edge Detection | Normalized Output |
-|:-------------:|:-------------:|:----------------:|
-| ![Original](attachment:flower_original.png) | ![Edges](attachment:flower_edges.png) | ![Normalized](attachment:flower_normalized.png) |
+*From left to right: Original image, edge detection applied, normalized output*
+
+### Lincoln Example
+
+![Lincoln Edge Detection](images/lincoln.png)
+
+*Edge detection applied to a portrait, showing the raw values and normalized output*
 
 </div>
 
-### Example 2: Simple Numerical Example
+### Example 2: Numerical Example
 ```
 Original Image:
 50      50      50      50      50      200     200     200     200     200
